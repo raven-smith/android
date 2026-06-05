@@ -1,0 +1,10 @@
+构建备注：
+- 语言：Java
+- Android Gradle Plugin：8.6.1
+- compileSdk：35
+- minSdk：26
+- 不依赖第三方 SDK
+- 主要系统能力：NotificationListenerService + HttpURLConnection
+- Webhook：飞书自定义机器人、钉钉自定义机器人
+
+如果 Android Studio 提示 compileSdk 或 Gradle 版本不匹配，可以按 IDE 提示升级 SDK 或把 compileSdk 改为本机已安装版本。
